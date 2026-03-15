@@ -1,4 +1,4 @@
-Disclaimer: Small and first University project of two students 
+Disclaimer: Small and first University project from two students 
 
 1. Technische Grundlagen
 ------------------------
