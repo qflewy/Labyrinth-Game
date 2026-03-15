@@ -1,3 +1,5 @@
+Disclaimer: Small and first University project of two students 
+
 1. Technische Grundlagen
 ------------------------
 Programmiersprache: Java 21 (openjdk version "24.0.1")
